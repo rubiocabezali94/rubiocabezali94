@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hola, soy Javi
 
-<!--
-**rubiocabezali94/rubiocabezali94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Desarrollador Back-End
 
-Here are some ideas to get you started:
+Soy desarrollador Back-End con experiencia en el diseño, desarrollo e implementación de APIs y sistemas escalables. Me enfoco en escribir código limpio, mantenible y orientado a buenas prácticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tecnologías y Conocimientos
+
+### 🔹 Back-End
+- Java
+- Kotlin
+- Node.js
+- Express
+
+### 🔹 Desarrollo Web
+- Angular
+
+### 🔹 Desarrollo Móvil
+- Flutter
+  
+---
+
+## 📈 Actualmente
+
+- Mejorando mis habilidades en arquitectura de software
+- Explorando nuevas tecnologías del ecosistema backend
+- Construyendo proyectos personales
+
+---
+
+## 📫 Contacto
+
+Puedes contactarme a través de:
+- LinkedIn: Javier Rubio Cabezalí
+- Email: rubiocabezali94@gmail.com
+
+---
+
+⭐ Gracias por visitar mi perfil.
